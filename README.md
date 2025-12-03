@@ -53,4 +53,4 @@ ReChargeBin uses plastic bottles as the trigger for a solar-powered charging sta
 - [Jay El Lasam](https://web.facebook.com/jl.lasam.1)
 - [Domingo Bautista VII](https://web.facebook.com/itsdomd7th)
 - [Brithney Oratel](https://web.facebook.com/joy.oratel)
-- [Dhanrev Lasam](https://web.facebook.com/CHOCODHANDHAN/)
+- [Dhanrev Mina](https://web.facebook.com/CHOCODHANDHAN/)
