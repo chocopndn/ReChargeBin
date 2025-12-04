@@ -2,4 +2,6 @@
 !.gitignore
 !/arduino1.ino
 !/arduino2.ino
+!/format1.ino
+!format2.ino
 !/README.md
